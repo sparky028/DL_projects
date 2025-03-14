@@ -1,0 +1,2 @@
+In this project I have used inbuild breast cancer dataset also I have done exploratory data analysis along with standardization of the data with train test split , In the latter half i have trained a simple ANN model
+also in the last part i have added a prompt for input of input features, alongside i have a few codes which help to clearly specify the output into either 0-->Malignant or 1-->benign.
